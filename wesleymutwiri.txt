@@ -1,0 +1,18 @@
+<span id="a">wesley@mochiemo</span>:<span id="b">~</span><span id="c">$</span> cd WesleyMutwiri/About_Me
+<span id="a">wesley@mochiemo</span>:<span id="b">~</span><span id="c">$</span> cat wesleymutwiri.txt<br/><br/>
+HI, I'm Wesley a full stack developer.
+
+<p>My name is Wesley Mutwiri. I'm a programmer who loves to build and try new things. I live in Nairobi, Kenya and have multiple hobbies that can be found right below this same page. I have no pictures as per now but just know I'm very handsome according to recommendations from my mum. If you need any assistance I'm a friendly face that is usually available so you can just contact me through any means.</p> 
+<p> Hobbies:<br> <ul> <li>Watching Anime and Series</li><li>Playing Video Games</li><li>Coding</li><li>Football fan(Manchester United X Real Madrid)</li><li>Travelling and visting new places</li><li>Watching memes and vines</li><li>Reading books</li><li>Music</li><li>Etc etc...</li>
+</ul>
+My favorite code quote, "<span id="k">Code Till you don't have to introduce yourself</span>". 
+
+<p> My Github link is <a href="https://github.com/wesleymutwiri"> Github</a>.</p>
+
+<p>More about myself coming soon as well <br><br><br>Projects page coming soon <a href="#"> Stay Tuned</a>.</p>
+
+<p> Other professional profiles include: <br> <a href="https://linkedin.com/in/wesley-mochiemo-31bb3415b/">LinkedIn</a> <br> <a href="link2"></a> <br> <a href="link3"></a></p>
+
+Feel free to send me an email at<a href="Your email ID"> Email</a>.
+
+<p>Cheers!</p>
